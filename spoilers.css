@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: green;
+  font-family: monospace;
+}
+
+span.spoil-protect {
+  background-color: green;
+  color: green;
+}
+
+span.spoil-protect:hover {
+  background-color: black;
+}
